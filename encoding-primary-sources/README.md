@@ -1,6 +1,7 @@
 # Transcribing and encoding primary sources
 
-I
+## I
+
 During the first part of this workshop, I will walk you through the most important TEI elements used in text transcription. 
 
 As we go along, you will be using the elements to annotate a a passage from [Isaac Newton's notebooks](http://cudl.lib.cam.ac.uk/view/MS-ADD-03996/210), digitized by Cambridge University Library. 
@@ -11,5 +12,6 @@ The passage we will encode is the second paragraph, beginning 'Light cannot...'.
 
 At the end of this part of the workshop, you will have a change to review your encoding against that produced by the Newton Project: the Newton project markup is provided as 'Newton-notebook-markup.xml'.
 
-II
+## II
+
 In the second part of the workshop, you will work independently to encode a passage from one of the primary sources we looked at on Monday. 
