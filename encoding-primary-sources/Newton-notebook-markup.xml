@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>'Quæstiones quædam Philosophiæ' ('Certain Philosophical Questions')</title>
+            <author xml:id="in"><persName ref="nameid_1"
+               xml:base="http://www.newtonproject.sussex.ac.uk/catalogue/xml/persNames.xml"
+               ><forename>Isaac</forename>
+               <surname>Newton</surname></persName></author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Newton Project</authority>
+            <pubPlace>Oxford</pubPlace>
+            <date>2017-10-11</date>
+            <publisher>Newton Project, University of Oxford</publisher>
+         </publicationStmt>
+         <notesStmt>
+            <note>Extract from the original file created by Matthew Holford for use in teaching at the Digital Humanities Summer School, Oxford, 2018. Used by permission of the Newton Project.</note>
+         </notesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>UK</country>
+                  <settlement>Cambridge</settlement>
+                  <repository n="custodian_2">Cambridge University Library</repository>
+                  <collection>Portsmouth Collection</collection>
+                  <idno n="MS Add. 3996">MS Add. 3996</idno>
+               </msIdentifier>
+               <additional>
+                  <surrogates>
+                     <p n="ChHReel"><num>12</num></p>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb xml:id="p103v" n="103v" facs="#MS-ADD-03996-000-00208.jpg"/>
+         <!-- first paragraph omitted here -->
+        <div> <p rend="indent0">Light ca<choice>
+            <orig>n̄</orig>
+            <reg>nn</reg>
+         </choice>ot be by pressi<choice>
+            <orig>ō</orig>
+            <reg>on</reg>
+         </choice>
+            <choice>
+               <sic>&amp;</sic>
+               <corr type="noText"/>
+            </choice> for <choice>
+               <orig><g ref="#thorn">y</g><hi rend="superscript">n</hi></orig>
+               <reg>then</reg>
+            </choice> wee should see in <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> night <choice>
+               <sic>a</sic>
+               <corr>as</corr>
+            </choice> wel or better <choice>
+               <orig><g ref="#thorn">y</g><hi rend="superscript">n</hi></orig>
+               <reg>than</reg>
+            </choice> in <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> day we should se a bright <lb/>light about us becaus we are
+            pressed downewards <del type="strikethrough">wee <lb/>should se when we shut <choice>
+               <abbr>o<hi rend="superscript">r</hi></abbr>
+               <expan>our</expan>
+            </choice> eyes because <choice>
+               <abbr>o<hi rend="superscript">r</hi></abbr>
+               <expan>our</expan>
+            </choice> eye lids press <lb/><choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">m</hi></abbr>
+               <expan>them</expan>
+            </choice> or when we put <choice>
+               <abbr>o<hi rend="superscript">r</hi></abbr>
+               <expan>our</expan>
+            </choice> hands on <choice>
+               <abbr>o<hi rend="superscript">r</hi></abbr>
+               <expan>our</expan>
+            </choice> eys</del>. The sun <del type="cancelled"><gap extent="1"
+               unit="characters" reason="illgblDel"/></del>
+            <lb/>would be long <del type="strikethrough">so long as we looke at <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> same thing <lb/><choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">t</hi></abbr>
+               <expan>that</expan>
+            </choice> pression is <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> same</del> nay far greater. ther could be <lb/>no refraction
+            since <del type="strikethrough">matter</del>
+            <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> same matter cannot <lb/>presse 2 ways, <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> * sun could not be quite eclipsed <lb/><choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> M<add place="supralinear">o</add>one &amp; planetts would shine
+            like sunns. A man <lb/> goeing or running, would see in <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> night. When a <lb/>fire or candle is extinguish we lookeing
+            another <lb/>way should see a light. The whole East would <lb/>shine in <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> day time &amp; <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> west in <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> ni<del type="over"><gap reason="illgblDel" extent="3"
+               unit="characters"/></del><add place="over">ght</add> by <lb/>reason
+            of <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> flood <choice>
+               <abbr>w<hi rend="superscript">ch</hi></abbr>
+               <expan>which</expan>
+            </choice> carrys <choice>
+               <abbr>o<hi rend="superscript">r</hi></abbr>
+               <expan>our</expan>
+            </choice>. Vortex a light <lb/>would shine from <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> Earth since <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> subtill matter <lb/><del type="strikethrough">flows</del>
+            <add place="infralinear">tends</add> from <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> center. a * little body interposed could <lb/>not hinder us from
+            seing pression could not render <lb/>shapes so distinct. There is <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> greatest pression on <del type="cancelled"><gap extent="1"
+               unit="characters" reason="illgblDel"/></del>
+            <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">t</hi></abbr>
+               <expan>that</expan>
+            </choice>
+            <lb/>side of <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> earth from <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> &#x2609; or else it would not <lb/>move about <metamark
+               function="insertion" rend="caret" target="#d1e10289" resp="#mhawkins"
+            /><add xml:id="d1e10289" place="supralinear">in equilibrio</add> but
+            from <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> &#x2609;, therefore <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> nights should <lb/>be <choice>
+               <sic>lighest</sic>
+               <corr>lightest</corr>
+            </choice>. Also <choice>
+               <abbr><g ref="#thorn">y</g><hi rend="superscript">e</hi></abbr>
+               <expan>the</expan>
+            </choice> Vortex is Ellipticall therefore light cannot <gap extent="1"
+               unit="words" reason="copy"/>
+            <lb/><add place="infralinear">come from the sone directly &amp;c</add></p></div>
+      </body>
+  </text>
+</TEI>

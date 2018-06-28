@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         
+         <div><p>Light can̄ot be by pressiō &amp; {sic} for yn wee should see in ye night a {sic} wel or better yn in ye day we should se a bright light about us becaus we are pressed downewards wee should se when we shut or eyes because or eye lids press ym or when we put or hands on or eys. The sun {illeg} would be long so long as we looke at ye same thing yt pression is ye same nay far greater. ther could be no refraction since matter ye same matter cannot presse 2 ways, ye * sun could not be quite eclipsed ye M\o/one &amp; planetts would shine like sunns. A man goeing or running, would see in ye night. When a fire or candle is extinguish we lookeing another way should see a light. The whole East would shine in ye day time &amp; ye west in ye ni{illeg}|ght| by reason of ye flood wch carrys or. Vortex a light would shine from ye Earth since ye subtill matter flows /tends\ from ye center. a * little body interposed could not hinder us from seing pression could not render shapes so distinct. There is ye greatest pression on {illeg} yt side of ye earth from ye ☉ or else it would not move about \in equilibrio/ but from ye ☉, therefore ye nights should be lighest {sic}. Also ye Vortex is Ellipticall therefore light cannot {illeg} /come from the sone directly &amp;c\</p></div>
+      </body>
+  </text>
+</TEI>
