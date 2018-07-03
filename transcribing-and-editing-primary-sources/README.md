@@ -1,4 +1,4 @@
-# Transcribing and encoding primary sources
+# Transcribing and editing primary sources
 
 ## I
 
