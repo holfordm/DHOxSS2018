@@ -20,3 +20,7 @@ You can review your markup against the Ashmolean's description in EpiDoc TEI (us
 ## III
 
 In the second part of the workshop - if time permits - you will work independently to create a description of one of the other sources listed above. 
+
+## IV 
+
+Slides for this workshop are avaiable [here](https://drive.google.com/file/d/1NZ64tx0QO40AUIqzevEOFhn3lBby4trY/view?usp=sharing)
