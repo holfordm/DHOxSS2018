@@ -10,7 +10,7 @@ representing the manuscript as closely as possible; the other provides a slightl
 
 The passage we will encode is the second paragraph, beginning 'Light cannot...'. A plain-text transcription of this passage, based on the diplomatic transcription, is provided as 'Newton-notebook-text.xml'. 
 
-At the end of this part of the workshop, you will have a change to review your encoding against that produced by the Newton Project: the Newton project markup is provided as 'Newton-notebook-markup.xml'.
+At the end of this part of the workshop, you will have a change to review your encoding against that produced by the Newton Project: the Newton project markup is provided as 'Newton-notebook-markup.xml'. Thanks to [The Newton Project]9http://www.newtonproject.ox.ac.uk/), Oxford University, for making the xml available.
 
 ## II
 
