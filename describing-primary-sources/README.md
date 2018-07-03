@@ -23,4 +23,4 @@ In the second part of the workshop - if time permits - you will work independent
 
 ## IV 
 
-Slides for this workshop are avaiable [here](https://drive.google.com/file/d/1NZ64tx0QO40AUIqzevEOFhn3lBby4trY/view?usp=sharing)
+Slides for this workshop are available [here](https://drive.google.com/file/d/1NZ64tx0QO40AUIqzevEOFhn3lBby4trY/view?usp=sharing).
